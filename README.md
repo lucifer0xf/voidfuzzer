@@ -1,11 +1,9 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/lucifer0xf/lucifer0xf/main/assets/voidfuzzer-logo.png" width="220">
-
-</p>
+<img src="logo.png">
 
 <h1 align="center">⚡ VoidFuzzer ⚡</h1>
-
+</p>
 <p align="center">
 Advanced Automation Fuzzing Tool for Vulnerability Discovery
 </p>
@@ -20,8 +18,6 @@ Advanced Automation Fuzzing Tool for Vulnerability Discovery
 
 </p>
 
----
-
 ## 🚀 About VoidFuzzer
 
 VoidFuzzer is a professional automation fuzzing tool designed for offensive security professionals, bug bounty hunters, and penetration testers.
@@ -35,8 +31,6 @@ It automates the process of:
 
 VoidFuzzer integrates multiple powerful security tools into one automated workflow.
 
----
-
 ## ⚡ Core Features
 
 ✔ Automated URL collection  
@@ -47,7 +41,8 @@ VoidFuzzer integrates multiple powerful security tools into one automated workfl
 ✔ Fully automated fuzzing pipeline  
 ✔ Designed for bug bounty & pentesting  
 
----
+<a href="https://github.com/silentfalcon/voidfuzzer"><img src="https://github.com/lucifer0xf/voidfuzzer/blob/main/Background.jpeg" alt="ReconSpyderX" height="400"></a>
+
 
 ## 🧠 How VoidFuzzer Works (Workflow)
 
@@ -63,7 +58,6 @@ gau
 
 to collect historical URLs from multiple sources.
 
----
 
 ### Step 2: Filter Parameterized URLs
 
@@ -81,7 +75,6 @@ Example:
 https://example.com/page?id=123
 ```
 
----
 
 ### Step 3: Check Live URLs
 
@@ -95,7 +88,6 @@ to verify which URLs are alive.
 
 Dead endpoints are removed.
 
----
 
 ### Step 4: Automated Vulnerability Scan
 
@@ -116,7 +108,6 @@ Detects:
 - RCE
 - Misconfigurations
 
----
 
 ## 📦 Requirements
 
@@ -141,7 +132,6 @@ go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
 ```
 
----
 
 ## 💻 Installation
 
@@ -169,7 +159,6 @@ Run tool:
 ./voidfuzzer.sh
 ```
 
----
 
 ## ⚙️ Usage
 
@@ -191,7 +180,6 @@ OR
 targets.txt
 ```
 
----
 
 ## 📁 Output Files
 
@@ -205,7 +193,6 @@ Contains:
 
 - Live fuzzable URLs
 
----
 
 ```
 nuclei_results.txt
@@ -214,8 +201,6 @@ nuclei_results.txt
 Contains:
 
 - Vulnerabilities detected
-
----
 
 ## 🧪 Example Usage
 
@@ -280,7 +265,6 @@ This allows:
 - 10 parallel threads
 - Faster scanning
 
----
 
 ## 🛡️ Designed For
 
@@ -308,7 +292,6 @@ nuclei (scan vulnerabilities)
 Results Output
 ```
 
----
 
 ## 👨‍💻 Author Information
 
@@ -327,7 +310,6 @@ Specialization:
 - Bug Bounty Automation
 - Red Team Tooling
 
----
 
 ## 🌐 Connect With Author
 
@@ -351,7 +333,6 @@ X (Twitter):
 
 https://twitter.com/
 
----
 
 ## ⚠️ Legal Disclaimer
 
@@ -361,7 +342,6 @@ Do not use against targets without permission.
 
 The author is not responsible for misuse.
 
----
 
 ## ⭐ Support
 
