@@ -1,5 +1,11 @@
 <p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=lucifer0xf&color=red&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
 <img src="logo.png">
 
 <h1 align="center">⚡ VoidFuzzer ⚡</h1>
@@ -293,66 +299,55 @@ Results Output
 ```
 
 
-## 👨‍💻 Author Information
+## ⚔️ Offensive Security Skills
 
-Name: Lucifer0xf  
-Alias: RootXploit.0x  
-
-GitHub:
-
-https://github.com/lucifer0xf
-
-Specialization:
-
-- Offensive Security
-- Automation Tool Development
-- Fuzzing Tool Development
-- Bug Bounty Automation
-- Red Team Tooling
+```
+Reconnaissance
+Web Application Security
+Automation & Fuzzing
+API Security Testing
+Vulnerability Research
+Exploit Development
+Red Team Operations
+OSINT Intelligence
+```
 
 
-## 🌐 Connect With Author
+## ⚡ Cybersecurity Quote
 
-GitHub:
+```text
+"Security is not a product, it's a process."
+```
 
-https://github.com/lucifer0xf
+## 🌐 Connect With Me
 
-TryHackMe:
+<div align="center">
+  <a href="https://x.com/rootxploit_0x">
+    <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/rootxploit.0x/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://tryhackme.com/r/p/rootxploit.0x">
+    <img src="https://img.shields.io/badge/TryHackMe-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://medium.com/@rootxploit0x">
+    <img src="https://img.shields.io/badge/Medium-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</div>
 
-https://tryhackme.com/
+## 📊 GitHub Analytics
 
-HackTheBox:
+<p align="center">
 
-https://hackthebox.com/
+<img src="https://github-readme-stats.vercel.app/api?username=lucifer0xf&show_icons=true&theme=radical&border_radius=10"/>
 
-Instagram:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer0xf&theme=radical"/>
 
-https://instagram.com/
+</p>
 
-X (Twitter):
+<p align="center">
 
-https://twitter.com/
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-
-## ⚠️ Legal Disclaimer
-
-This tool is for educational and authorized testing only.
-
-Do not use against targets without permission.
-
-The author is not responsible for misuse.
-
-
-## ⭐ Support
-
-If you like this project:
-
-Star the repository
-
-Follow the author
-
-Contribute to development
-
----
-
-## ⚡ VoidFuzzer — Automation Meets Offensive Security ⚡
+</p>
