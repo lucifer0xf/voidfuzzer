@@ -24,6 +24,21 @@ Advanced Automation Fuzzing Tool for Vulnerability Discovery
 
 </p>
 
+<div align="center">
+  <a href="https://x.com/rootxploit_0x">
+    <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/rootxploit.0x/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://tryhackme.com/r/p/rootxploit.0x">
+    <img src="https://img.shields.io/badge/TryHackMe-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://medium.com/@rootxploit0x">
+    <img src="https://img.shields.io/badge/Medium-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</div>
+
 ## 🚀 About VoidFuzzer
 
 VoidFuzzer is a professional automation fuzzing tool designed for offensive security professionals, bug bounty hunters, and penetration testers.
@@ -319,22 +334,6 @@ OSINT Intelligence
 "Security is not a product, it's a process."
 ```
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://x.com/rootxploit_0x">
-    <img src="https://img.shields.io/badge/X-Connect-blue?logo=X&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/rootxploit.0x/">
-    <img src="https://img.shields.io/badge/Instagram-Connect-Red?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://tryhackme.com/r/p/rootxploit.0x">
-    <img src="https://img.shields.io/badge/TryHackMe-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://medium.com/@rootxploit0x">
-    <img src="https://img.shields.io/badge/Medium-Connect-blue?logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-</div>
 
 ## 📊 GitHub Analytics
 
